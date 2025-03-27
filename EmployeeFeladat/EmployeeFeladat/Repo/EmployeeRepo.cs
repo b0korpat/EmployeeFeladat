@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Xml.Serialization;
 using static Microsoft.EntityFrameworkCore.DbLoggerCategory;
@@ -55,12 +56,24 @@ namespace EmployeeFeladat.Repo
             Console.WriteLine($"Átlag: {avg}, Összeg: {sum}");
         }
 
-        public void GetNumberOfEmplyesInSalaryRange()
+        public void GetNumberOfEmployeesInSalaryRange()
         {
-            Console.WriteLine("400000 Ft alatt: " + _context.Dolgozoks.Count(e => e.Salary < 400000));
-            Console.WriteLine("400000 - 500000 Ft között: " + _context.Dolgozoks.Count(e => e.Salary > 400000 && e.Salary < 500000));
-            Console.WriteLine("500000 Ft felett: " + _context.Dolgozoks.Count(e => e.Salary > 500000));
+            var groupedEmployees = _context.Dolgozoks
+                .GroupBy(e => e.Salary < 400000 ? "400000 Ft alatt" :
+                              e.Salary <= 500000 ? "400000 - 500000 Ft között" :
+                              "500000 Ft felett")
+                .ToList();
+
+            foreach (var group in groupedEmployees)
+            {
+                Console.WriteLine($"{group.Key}: {group.Count()}");
+                foreach (var employee in group)
+                {
+                    Console.WriteLine(employee.Name + " (" + employee.Email + ") - " + employee.Salary);
+                }
+            }
         }
+
 
         public void GetEmployeesTax()
         {

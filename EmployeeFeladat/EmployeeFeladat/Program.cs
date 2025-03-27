@@ -51,7 +51,7 @@ repo.ListEmployeesDescBySalary();
 
 repo.GetAvgAndSumSalary();
 
-repo.GetNumberOfEmplyesInSalaryRange();
+repo.GetNumberOfEmployeesInSalaryRange();
 
 repo.GetEmployeesTax();
 
