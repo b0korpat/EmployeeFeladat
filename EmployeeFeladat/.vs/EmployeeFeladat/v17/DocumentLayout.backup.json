@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\b0korpat\\Desktop\\EmployeeFeladat\\EmployeeFeladat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{898E7945-CB4A-49EE-9245-A756BA37BD69}|EmployeeFeladat\\EmployeeFeladat.csproj|c:\\users\\b0korpat\\desktop\\employeefeladat\\employeefeladat\\employeefeladat\\repo\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898E7945-CB4A-49EE-9245-A756BA37BD69}|EmployeeFeladat\\EmployeeFeladat.csproj|solutionrelative:employeefeladat\\repo\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898E7945-CB4A-49EE-9245-A756BA37BD69}|EmployeeFeladat\\EmployeeFeladat.csproj|c:\\users\\b0korpat\\desktop\\employeefeladat\\employeefeladat\\employeefeladat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898E7945-CB4A-49EE-9245-A756BA37BD69}|EmployeeFeladat\\EmployeeFeladat.csproj|solutionrelative:employeefeladat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898E7945-CB4A-49EE-9245-A756BA37BD69}|EmployeeFeladat\\EmployeeFeladat.csproj|c:\\users\\b0korpat\\desktop\\employeefeladat\\employeefeladat\\employeefeladat\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898E7945-CB4A-49EE-9245-A756BA37BD69}|EmployeeFeladat\\EmployeeFeladat.csproj|solutionrelative:employeefeladat\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898E7945-CB4A-49EE-9245-A756BA37BD69}|EmployeeFeladat\\EmployeeFeladat.csproj|c:\\users\\b0korpat\\desktop\\employeefeladat\\employeefeladat\\employeefeladat\\dbmodels\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898E7945-CB4A-49EE-9245-A756BA37BD69}|EmployeeFeladat\\EmployeeFeladat.csproj|solutionrelative:employeefeladat\\dbmodels\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898E7945-CB4A-49EE-9245-A756BA37BD69}|EmployeeFeladat\\EmployeeFeladat.csproj|c:\\users\\b0korpat\\desktop\\employeefeladat\\employeefeladat\\employeefeladat\\employeefeladat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{898E7945-CB4A-49EE-9245-A756BA37BD69}|EmployeeFeladat\\EmployeeFeladat.csproj|solutionrelative:employeefeladat\\employeefeladat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898E7945-CB4A-49EE-9245-A756BA37BD69}|EmployeeFeladat\\EmployeeFeladat.csproj|c:\\users\\b0korpat\\desktop\\employeefeladat\\employeefeladat\\employeefeladat\\dbmodels\\dolgozok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898E7945-CB4A-49EE-9245-A756BA37BD69}|EmployeeFeladat\\EmployeeFeladat.csproj|solutionrelative:employeefeladat\\dbmodels\\dolgozok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\b0korpat\\Desktop\\EmployeeFeladat\\EmployeeFeladat\\EmployeeFeladat\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeFeladat\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\b0korpat\\Desktop\\EmployeeFeladat\\EmployeeFeladat\\EmployeeFeladat\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeFeladat\\Models\\Employee.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:08:06.699Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepo.cs",
+              "DocumentMoniker": "C:\\Users\\b0korpat\\Desktop\\EmployeeFeladat\\EmployeeFeladat\\EmployeeFeladat\\Repo\\EmployeeRepo.cs",
+              "RelativeDocumentMoniker": "EmployeeFeladat\\Repo\\EmployeeRepo.cs",
+              "ToolTip": "C:\\Users\\b0korpat\\Desktop\\EmployeeFeladat\\EmployeeFeladat\\EmployeeFeladat\\Repo\\EmployeeRepo.cs",
+              "RelativeToolTip": "EmployeeFeladat\\Repo\\EmployeeRepo.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:36:38.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dolgozok.cs",
+              "DocumentMoniker": "C:\\Users\\b0korpat\\Desktop\\EmployeeFeladat\\EmployeeFeladat\\EmployeeFeladat\\DbModels\\Dolgozok.cs",
+              "RelativeDocumentMoniker": "EmployeeFeladat\\DbModels\\Dolgozok.cs",
+              "ToolTip": "C:\\Users\\b0korpat\\Desktop\\EmployeeFeladat\\EmployeeFeladat\\EmployeeFeladat\\DbModels\\Dolgozok.cs",
+              "RelativeToolTip": "EmployeeFeladat\\DbModels\\Dolgozok.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:09:33.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\b0korpat\\Desktop\\EmployeeFeladat\\EmployeeFeladat\\EmployeeFeladat\\DbModels\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "EmployeeFeladat\\DbModels\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\b0korpat\\Desktop\\EmployeeFeladat\\EmployeeFeladat\\EmployeeFeladat\\DbModels\\DatabaseContext.cs",
+              "RelativeToolTip": "EmployeeFeladat\\DbModels\\DatabaseContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:06:34.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeFeladat",
+              "DocumentMoniker": "C:\\Users\\b0korpat\\Desktop\\EmployeeFeladat\\EmployeeFeladat\\EmployeeFeladat\\EmployeeFeladat.csproj",
+              "RelativeDocumentMoniker": "EmployeeFeladat\\EmployeeFeladat.csproj",
+              "ToolTip": "C:\\Users\\b0korpat\\Desktop\\EmployeeFeladat\\EmployeeFeladat\\EmployeeFeladat\\EmployeeFeladat.csproj",
+              "RelativeToolTip": "EmployeeFeladat\\EmployeeFeladat.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T12:59:51.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\b0korpat\\Desktop\\EmployeeFeladat\\EmployeeFeladat\\EmployeeFeladat\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeFeladat\\Program.cs",
+              "ToolTip": "C:\\Users\\b0korpat\\Desktop\\EmployeeFeladat\\EmployeeFeladat\\EmployeeFeladat\\Program.cs",
+              "RelativeToolTip": "EmployeeFeladat\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwDUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:59:32.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
